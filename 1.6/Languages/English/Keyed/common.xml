@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <WSModTags.LoadingLabel>Loading Upload Mod With Tags</WSModTags.LoadingLabel>
+    <WSModTags.EditTags>Workshop tags...</WSModTags.EditTags>
+    <WSModTags.EditTagsInvalid>Workshop tags: invalid</WSModTags.EditTagsInvalid>
+    <WSModTags.EditTagsTitle>Workshop tags for {0}</WSModTags.EditTagsTitle>
+    <WSModTags.AddTag>Add</WSModTags.AddTag>
+    <WSModTags.TagHelp>Tags are free-form Steam Workshop tags. Commas, control characters, empty tags, and version tags are not allowed.</WSModTags.TagHelp>
+    <WSModTags.AutomaticTags>Automatic tags</WSModTags.AutomaticTags>
+    <WSModTags.CustomTags>Custom tags</WSModTags.CustomTags>
+    <WSModTags.NoCustomTags>No custom tags yet.</WSModTags.NoCustomTags>
+    <WSModTags.Suggestions>Suggestions</WSModTags.Suggestions>
+    <WSModTags.NoSuggestions>All suggestions are already added.</WSModTags.NoSuggestions>
+    <WSModTags.SavesTo>Saved to {0}</WSModTags.SavesTo>
+    <WSModTags.SaveRequired>Changes are only written when you press Save.</WSModTags.SaveRequired>
+    <WSModTags.DuplicateTag>{0} is already in the custom tag list.</WSModTags.DuplicateTag>
+    <WSModTags.TagsSaved>Workshop tags saved.</WSModTags.TagsSaved>
+    <WSModTags.InvalidTagsBlocked>Workshop upload blocked because custom tags are invalid.</WSModTags.InvalidTagsBlocked>
+</LanguageData>
