@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    <WSModTags.LoadingLabel>Loading Upload Mod With Tags</WSModTags.LoadingLabel>
+    <WSModTags.LoadingLabel>Loading Mod Publish Helper</WSModTags.LoadingLabel>
     <WSModTags.EditTags>Workshop tags...</WSModTags.EditTags>
     <WSModTags.EditTagsInvalid>Workshop tags: invalid</WSModTags.EditTagsInvalid>
     <WSModTags.EditTagsTitle>Workshop tags for {0}</WSModTags.EditTagsTitle>

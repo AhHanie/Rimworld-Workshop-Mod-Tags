@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-    <name>Workshop Mod Tags</name>
+    <name>Mod Publish Helper</name>
     <author>Sk</author>
     <packageId>sk.wsmodtags</packageId>
     <supportedVersions>
         <li>1.6</li>
         <li>1.7</li>
     </supportedVersions>
-    <description>Add Steam Workshop tags to your mods before uploading/updating.</description>
-    <modVersion>1.1.0</modVersion>
+    <description>Helps you publish mods to the Steam Workshop. Add Workshop tags to your mods before uploading/updating, and have "Don't upload source textures" checked by default when your mod only supports RimWorld 1.7 or newer.</description>
+    <modVersion>1.2.0</modVersion>
     <url>https://steamcommunity.com/sharedfiles/filedetails/?id=3730112516</url>
     <modDependencies>
         <li>

@@ -10,7 +10,7 @@ namespace WSModTags
 {
     public static class Logger
     {
-        private const string Prefix = "[Upload Mod With Tags] ";
+        private const string Prefix = "[Mod Publish Helper]";
 
         public static void Message(string message)
         {
